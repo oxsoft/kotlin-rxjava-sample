@@ -1,1 +1,1 @@
-# kotlin-rxjava-sample
+# kotlin-rxjava2-sample
